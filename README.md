@@ -1,3 +1,3 @@
 # demo
-My first git repository
-Anuthor-Krutarth Joshi
+My first git repository.
+Author-Krutarth Joshi
